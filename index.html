@@ -122,11 +122,11 @@
 
         
   
-        name.textContent = surah.name+' - '+surah.name_in_malayalam;
+        name.textContent = surah.index+'. '+surah.name+' - '+surah.name_in_malayalam;
         const paramName = encodeURIComponent(surah.name + '_' +surah.name_in_malayalam) ;
   
         // Set the href attribute with the recitation link as a parameter
-        link.href = `recitation.html?link=${encodeURIComponent(surah.recitation_link)}&name=${encodeURIComponent(surah.name + '_' +surah.name_in_malayalam)}`;
+        link.href = `recitation.html?link=${encodeURIComponent(surah.recitation_link)}&name=${encodeURIComponent(surah.index+'. '+surah.name + '_' +surah.name_in_malayalam)}`;
         link.appendChild(name);
   
         li.appendChild(link);
