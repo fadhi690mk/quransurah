@@ -17,10 +17,20 @@
       margin-bottom: 30px;
     }
 
+    
     .video-container {
-      max-width: 800px;
+      position: relative;
       margin: 0 auto;
-      height: max-content;
+      width: 90%;
+      padding-bottom: 56.25%; /* 16:9 aspect ratio (height divided by width) */
+    }
+    
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
     }
 
     #video-title {
@@ -37,12 +47,32 @@
       font-size: 50px;
       cursor: pointer;
       transition: background-color 0.3s;
-      margin: auto;
+      margin: 30px auto;
       border-radius: 15px;
       font-weight: 700;
     }
 
     .back-button:hover {
+      background-color: #666;
+    }
+
+    /* Add fullscreen button styling */
+    .fullscreen-button {
+      display: block;
+      margin-top: 20px;
+      background-color: #d6d0d0;
+      color: #222222;
+      border: none;
+      padding: 10px 20px;
+      font-size: 50px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      margin:auto;
+      border-radius: 15px;
+      font-weight: 700;
+    }
+
+    .fullscreen-button:hover {
       background-color: #666;
     }
   </style>
@@ -51,11 +81,13 @@
   <h1>Recitation Page</h1>
 
   <div class="video-container">
-    <iframe id="recitation-video" width="100%" src="" frameborder="0" allowfullscreen style="height: 25vh;" autoplay></iframe>
+    <iframe id="recitation-video" width="100%" src="" frameborder="0" allowfullscreen autoplay></iframe>
     <h1 id="video-title"></h1>
   </div>
 
   <button class="back-button" onclick="goBack()">Go Back</button>
+  <button class="fullscreen-button" onclick="toggleFullscreen()">Toggle Fullscreen</button>
+
   <script>
     // Get the parameters from the URL
     const params = new URLSearchParams(window.location.search);
@@ -72,9 +104,22 @@
     const recitationVideo = document.getElementById('recitation-video');
     recitationVideo.src = recitationLink;
 
-     // Go back function
-     function goBack() {
+    // Go back function
+    function goBack() {
       window.history.back();
+    }
+
+    // Toggle fullscreen function
+    function toggleFullscreen() {
+      if (recitationVideo.requestFullscreen) {
+        recitationVideo.requestFullscreen();
+      } else if (recitationVideo.mozRequestFullScreen) { // Firefox
+        recitationVideo.mozRequestFullScreen();
+      } else if (recitationVideo.webkitRequestFullscreen) { // Chrome, Safari and Opera
+        recitationVideo.webkitRequestFullscreen();
+      } else if (recitationVideo.msRequestFullscreen) { // IE/Edge
+        recitationVideo.msRequestFullscreen();
+      }
     }
   </script>
 </body>
