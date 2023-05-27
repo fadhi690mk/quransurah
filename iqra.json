@@ -1,0 +1,591 @@
+{
+    "surahs": [
+      {
+        "index": 1,
+        "name": "Al-Fatiha",
+        "name_in_malayalam": "അൽ-ഫാതിഹ",
+        "recitation_link": "https://www.youtube.com/embed/W_Qs8nqHOwo"     },
+      {
+        "index": 2,
+        "name": "Al-Baqarah",
+        "name_in_malayalam": "അൽ-ബഖറ",
+        "recitation_link": "https://www.youtube.com/embed/z9YyESW1PeU?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 3,
+        "name": "Aal-E-Imran",
+        "name_in_malayalam": "ആല്‍-ഇമ്രാന്‍",
+        "recitation_link": "https://www.youtube.com/embed/09_saEjBpYU?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 4,
+        "name": "An-Nisa",
+        "name_in_malayalam": "അൽ-നിസ",
+        "recitation_link": "https://www.youtube.com/embed/eH4gn6MLeyM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 5,
+        "name": "Al-Ma'idah",
+        "name_in_malayalam": "അൽ-മായിദ",
+        "recitation_link": "https://www.youtube.com/embed/o9SxlIyvofA"     },
+      {
+        "index": 6,
+        "name": "Al-An'am",
+        "name_in_malayalam": "അൽ-അനാം",
+        "recitation_link": "https://www.youtube.com/embed/cqTgnRmqeVc?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 7,
+        "name": "Al-A'raf",
+        "name_in_malayalam": "അൽ-ആരാഫ്",
+        "recitation_link": "https://www.youtube.com/embed/iYcFwRlSUms?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 8,
+        "name": "Al-Anfal",
+        "name_in_malayalam": "അൽ-അന്‍ഫാള്‍",
+        "recitation_link": "https://www.youtube.com/embed/7kgJSejBskM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 9,
+        "name": "At-Tawbah",
+        "name_in_malayalam": "അത്തൗബ",
+        "recitation_link": "https://www.youtube.com/embed/gD14kDlL4tU?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"     },
+      {
+        "index": 10,
+        "name": "Yunus",
+        "name_in_malayalam": "യൂനുസ്",
+        "recitation_link": "https://www.youtube.com/embed/PFqQThGekI0?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 11,
+        "name": "Hud",
+        "name_in_malayalam": "ഹൂദ്",
+        "recitation_link": "https://www.youtube.com/embed/sM-SMV3FXVI?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 12,
+        "name": "Yusuf",
+        "name_in_malayalam": "യൂസുഫ്",
+        "recitation_link": "https://www.youtube.com/embed/wZduC_0KkYA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 13,
+        "name": "Ar-Rad",
+        "name_in_malayalam": "അർ-റാദ്",
+        "recitation_link": "https://www.youtube.com/embed/8osKVD7mAek?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 14,
+        "name": "Ibrahim",
+        "name_in_malayalam": "ഇബ്രാഹീം",
+        "recitation_link": "https://www.youtube.com/embed/JwQnIG63Oc8?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 15,
+        "name": "Al-Hijr",
+        "name_in_malayalam": "അൽ-ഹിജ്റ്",
+        "recitation_link": "https://www.youtube.com/embed/favt3yF8LOk?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 16,
+        "name": "An-Nahl",
+        "name_in_malayalam": "അൽ-നഹൽ",
+        "recitation_link": "https://www.youtube.com/embed/DqyM8LCMrd4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 17,
+        "name": "Al-Isra",
+        "name_in_malayalam": "അൽ-ഇസ്ര",
+        "recitation_link": "https://www.youtube.com/embed/dhGiPi_lQ74?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 18,
+        "name": "Al-Kahf",
+        "name_in_malayalam": "അൽ-കഹ്‌ഫ്",
+        "recitation_link": "https://www.youtube.com/embed/gHXKEAkh5Jc?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 19,
+        "name": "Maryam",
+        "name_in_malayalam": "മാര്യം",
+        "recitation_link": "https://www.youtube.com/embed/nYPC8jIfECo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 20,
+        "name": "Ta-Ha",
+        "name_in_malayalam": "താ-ഹാ",
+        "recitation_link": "https://www.youtube.com/embed/RwyhPHCNXAQ?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      }
+      ,
+      {
+        "index": 21,
+        "name": "Al-Anbiya",
+        "name_in_malayalam": "അൽ-അന്‍ബിയാ",
+        "recitation_link": "https://www.youtube.com/embed/hCsCkHeol-M?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 22,
+        "name": "Al-Hajj",
+        "name_in_malayalam": "അൽ-ഹജ്ജ്",
+        "recitation_link": "https://www.youtube.com/embed/pIu8MNqwntA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 23,
+        "name": "Al-Muminun",
+        "name_in_malayalam": "അൽ-മുമിനൂൺ",
+        "recitation_link": "https://www.youtube.com/embed/nkzJqA0SjaI?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 24,
+        "name": "An-Nur",
+        "name_in_malayalam": "അൽ-നൂർ",
+        "recitation_link": "https://www.youtube.com/embed/666hDfwpFMY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 25,
+        "name": "Al-Furqan",
+        "name_in_malayalam": "അൽ-ഫുർക്കാൻ",
+        "recitation_link": "https://www.youtube.com/embed/elgNixq7AfM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 26,
+        "name": "Ash-Shu'ara",
+        "name_in_malayalam": "അശ്-ശുആര",
+        "recitation_link": "https://www.youtube.com/embed/Vq9iEI_Z3Kw?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 27,
+        "name": "An-Naml",
+        "name_in_malayalam": "അൽ-നമ്‌ൽ",
+        "recitation_link": "https://www.youtube.com/embed/uM2lID0N1sw?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 28,
+        "name": "Al-Qasas",
+        "name_in_malayalam": "അൽ-കസസ്",
+        "recitation_link": "https://www.youtube.com/embed/HIh3UpPPBAk?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 29,
+        "name": "Al-Ankabut",
+        "name_in_malayalam": "അൽ-അന്‍കബൂത്",
+        "recitation_link": "https://www.youtube.com/embed/fTG0ErDC4vY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 30,
+        "name": "Ar-Rum",
+        "name_in_malayalam": "അർ-റൂം",
+        "recitation_link": "https://www.youtube.com/embed/c9W3aNK9n_Q?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 31,
+        "name": "Luqman",
+        "name_in_malayalam": "ലുഖ്മാൻ",
+        "recitation_link": "https://www.youtube.com/embed/bFMtur252ag?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 32,
+        "name": "As-Sajdah",
+        "name_in_malayalam": "അസ്-സജ്ദഹ്",
+        "recitation_link": "https://www.youtube.com/embed/3GDS79DNFhI?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 33,
+        "name": "Al-Ahzab",
+        "name_in_malayalam": "അൽ-അഹ്‌സ്സാബ്",
+        "recitation_link": "https://www.youtube.com/embed/831BbsAFCHY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 34,
+        "name": "Saba",
+        "name_in_malayalam": "സബ",
+        "recitation_link": "https://www.youtube.com/embed/iYa_zfMO_cA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 35,
+        "name": "Fatir",
+        "name_in_malayalam": "ഫാത്തിർ",
+        "recitation_link": "https://www.youtube.com/embed/84yzwu1b2ls?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 36,
+        "name": "Ya-Sin",
+        "name_in_malayalam": "യാ-സിൻ",
+        "recitation_link": "https://www.youtube.com/embed/ZxdDVc4_b1c"      },
+      {
+        "index": 37,
+        "name": "As-Saffat",
+        "name_in_malayalam": "അസ്-സാഫാത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/ZSUBjPsSVto?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 38,
+        "name": "Sad",
+        "name_in_malayalam": "സാദ്",
+        "recitation_link": "https://www.youtube.com/embed/SHk2wS_TBkA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 39,
+        "name": "Az-Zumar",
+        "name_in_malayalam": "അസ്-സുമർ",
+        "recitation_link": "https://www.youtube.com/embed/n3tlxH6evEg?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 40,
+        "name": "Ghafir",
+        "name_in_malayalam": "ഗാഫിർ",
+        "recitation_link": "https://www.youtube.com/embed/9mz78Aimxi8"      },
+      {
+        "index": 41,
+        "name": "Fussilat",
+        "name_in_malayalam": "ഫുസ്സിൽത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/1aKLf_IQdX4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 42,
+        "name": "Ash-Shura",
+        "name_in_malayalam": "അഷ്-ഷൂര",
+        "recitation_link": "https://www.youtube.com/embed/YjNrvInrnQc?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 43,
+        "name": "Az-Zukhruf",
+        "name_in_malayalam": "അസ്-സുഖ്രൂൺ",
+        "recitation_link": "https://www.youtube.com/embed/1TPys1aWWkA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 44,
+        "name": "Ad-Dukhan",
+        "name_in_malayalam": "അദ്-ദുഖാൻ",
+        "recitation_link": "https://www.youtube.com/embed/9-4E4BWHJu0?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 45,
+        "name": "Al-Jathiyah",
+        "name_in_malayalam": "അൽ-ജാത്തിയ",
+        "recitation_link": "https://www.youtube.com/embed/eu05FjQOb10?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 46,
+        "name": "Al-Ahqaf",
+        "name_in_malayalam": "അൽ-അഹ്‌കാഫ്",
+        "recitation_link": "https://www.youtube.com/embed/BaONiAIxTnE?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 47,
+        "name": "Muhammad",
+        "name_in_malayalam": "മുഹമ്മദ്",
+        "recitation_link": "https://www.youtube.com/embed/iBQtLIPNNt4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 48,
+        "name": "Al-Fath",
+        "name_in_malayalam": "അൽ-ഫത്",
+        "recitation_link": "https://www.youtube.com/embed/W_Qs8nqHOwo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 49,
+        "name": "Al-Hujurat",
+        "name_in_malayalam": "അൽ-ഹുജരാത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/4qokCzVw7yg?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 50,
+        "name": "Qaf",
+        "name_in_malayalam": "കാഫ്",
+        "recitation_link": "https://www.youtube.com/embed/mICyHUbOw50?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 51,
+        "name": "Adh-Dhariyat",
+        "name_in_malayalam": "അധ്-സ്സാറിയാത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/QqJ2OG9Y4ck?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 52,
+        "name": "At-Tur",
+        "name_in_malayalam": "അത്തൂർ",
+        "recitation_link": "https://www.youtube.com/embed/Qh43ODixaCQ?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 53,
+        "name": "An-Najm",
+        "name_in_malayalam": "അൽ-നജ്ജം",
+        "recitation_link": "https://www.youtube.com/embed/9OxuqV1F4zk?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 54,
+        "name": "Al-Qamar",
+        "name_in_malayalam": "അൽ-കമർ",
+        "recitation_link": "https://www.youtube.com/embed/tsJb03ley1s?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 55,
+        "name": "Ar-Rahman",
+        "name_in_malayalam": "അർ-റഹ്‌മാൻ",
+        "recitation_link": "https://www.youtube.com/embed/Lbcta_bVxP4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 56,
+        "name": "Al-Waqi'ah",
+        "name_in_malayalam": "അൽ-വാക്യ",
+        "recitation_link": "https://www.youtube.com/embed/N78PGdl2-Wo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 57,
+        "name": "Al-Hadid",
+        "name_in_malayalam": "അൽ-ഹദീദ്",
+        "recitation_link": "https://www.youtube.com/embed/rmMQe6vhqxw?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 58,
+        "name": "Al-Mujadila",
+        "name_in_malayalam": "അൽ-മുജാദില",
+        "recitation_link": "https://www.youtube.com/embed/dPjEbriQQt8?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 59,
+        "name": "Al-Hashr",
+        "name_in_malayalam": "അൽ-ഹാഷർ",
+        "recitation_link": "https://www.youtube.com/embed/ZY-GqwgMLcc?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 60,
+        "name": "Al-Mumtahanah",
+        "name_in_malayalam": "അൽ-മുമ്തഹനഹ്",
+        "recitation_link": "https://www.youtube.com/embed/fDG4aQIM2nQ?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 61,
+        "name": "As-Saff",
+        "name_in_malayalam": "അസ്-സഫ്ഫ്",
+        "recitation_link": "https://www.youtube.com/embed/fHDo3zgoGIM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 62,
+        "name": "Al-Jumu'ah",
+        "name_in_malayalam": "അൽ-ജുമുഅഹ്",
+        "recitation_link": "https://www.youtube.com/embed/EZpSVLLwoLY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 63,
+        "name": "Al-Munafiqun",
+        "name_in_malayalam": "അൽ-മുനാഫിക്കുന്‍",
+        "recitation_link": "https://www.youtube.com/embed/Op4QE5dtDLU?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 64,
+        "name": "At-Taghabun",
+        "name_in_malayalam": "അത്തഗ്ഹാബൂൺ",
+        "recitation_link": "https://www.youtube.com/embed/snd-PEVW0_Y?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 65,
+        "name": "At-Talaq",
+        "name_in_malayalam": "അത്തലാക്",
+        "recitation_link": "https://www.youtube.com/embed/bppKGBDSzlo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 66,
+        "name": "At-Tahrim",
+        "name_in_malayalam": "അത്തഹ്റിം",
+        "recitation_link": "https://www.youtube.com/embed/uRYzSn5yIg0?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 67,
+        "name": "Al-Mulk",
+        "name_in_malayalam": "അൽ-മുൽക്ക്",
+        "recitation_link": "https://www.youtube.com/embed/sqEm_q0XB_o?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 68,
+        "name": "Al-Qalam",
+        "name_in_malayalam": "അൽ-ഖലാമ്",
+        "recitation_link": "https://www.youtube.com/embed/DBsDrX2y6ew?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 69,
+        "name": "Al-Haqqah",
+        "name_in_malayalam": "അൽ-ഹാക്ക",
+        "recitation_link": "https://www.youtube.com/embed/AzLiU9cWwv4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 70,
+        "name": "Al-Ma'arij",
+        "name_in_malayalam": "അൽ-മാഅരിജ്",
+        "recitation_link": "https://www.youtube.com/embed/-UF51EneSFA?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 71,
+        "name": "Nuh",
+        "name_in_malayalam": "നൂഹ്",
+        "recitation_link": "https://www.youtube.com/embed/fv-HS7YiwXM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 72,
+        "name": "Al-Jinn",
+        "name_in_malayalam": "അൽ-ജിന്ന്",
+        "recitation_link": "https://www.youtube.com/embed/sXaidqqgbHY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 73,
+        "name": "Al-Muzzammil",
+        "name_in_malayalam": "അൽ-മുസ്സമ്മിൽ",
+        "recitation_link": "https://www.youtube.com/embed/ZfU16Q4efhY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 74,
+        "name": "Al-Muddathir",
+        "name_in_malayalam": "അൽ-മുദ്ധത്തിർ",
+        "recitation_link": "https://www.youtube.com/embed/nVO-HIcOAqw"      },
+      {
+        "index": 75,
+        "name": "Al-Qiyamah",
+        "name_in_malayalam": "അൽ-ഖിയാമാ",
+        "recitation_link": "https://www.youtube.com/embed/4lRC0PMQ260?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 76,
+        "name": "Al-Insan",
+        "name_in_malayalam": "അൽ-ഇൻസാൻ",
+        "recitation_link": "https://www.youtube.com/embed/pYydkbOd4Vo"      },
+      {
+        "index": 77,
+        "name": "Al-Mursalat",
+        "name_in_malayalam": "അൽ-മുർസലാത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/ENYSd7rMYu4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 78,
+        "name": "An-Naba'",
+        "name_in_malayalam": "അൾ-നബാ",
+        "recitation_link": "https://www.youtube.com/embed/yLjv0mhZY5E"      },
+      {
+        "index": 79,
+        "name": "An-Nazi'at",
+        "name_in_malayalam": "അൾ-നാസിഅത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/yvPNhhJVvcs"      },
+      {
+        "index": 80,
+        "name": "'Abasa",
+        "name_in_malayalam": "അബസ",
+        "recitation_link": "https://www.youtube.com/embed/arLXSXIkU9I"      },
+      {
+        "index": 81,
+        "name": "At-Takwir",
+        "name_in_malayalam": "അത്തക്വിർ",
+        "recitation_link": "https://www.youtube.com/embed/M30SupMIq8E"      },
+      {
+        "index": 82,
+        "name": "Al-Infitar",
+        "name_in_malayalam": "അൽ-ഇൻഫിത്താർ",
+        "recitation_link": "https://www.youtube.com/embed/zcQm9PKNG7s"      },
+      {
+        "index": 83,
+        "name": "Al-Mutaffifin",
+        "name_in_malayalam": "അൽ-മുതഫ്ഫിഫ്ഫീൻ",
+        "recitation_link": "https://www.youtube.com/embed/pf96UsAVgUo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 84,
+        "name": "Al-Inshiqaq",
+        "name_in_malayalam": "അൽ-ഇൻഷിക്വാക്",
+        "recitation_link": "https://www.youtube.com/embed/rgzZnzp-1DQ?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 85,
+        "name": "Al-Buruj",
+        "name_in_malayalam": "അൽ-ബുറുജ്",
+        "recitation_link": "https://www.youtube.com/embed/yYOvkW6Bw04?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 86,
+        "name": "At-Tariq",
+        "name_in_malayalam": "അത്താറിക്",
+        "recitation_link": "https://www.youtube.com/embed/WryM9gWpNAo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 87,
+        "name": "Al-A'la",
+        "name_in_malayalam": "അൽ-അഅലാ",
+        "recitation_link": "https://www.youtube.com/embed/olt7AAW16LQ?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 88,
+        "name": "Al-Ghashiyah",
+        "name_in_malayalam": "അൽ-ഗാഷിയ്യ",
+        "recitation_link": "https://www.youtube.com/embed/1MJOPPIv_9s?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 89,
+        "name": "Al-Fajr",
+        "name_in_malayalam": "അൽ-ഫജ്റ്",
+        "recitation_link": "https://www.youtube.com/embed/mkY46WCLuX4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 90,
+        "name": "Al-Balad",
+        "name_in_malayalam": "അൽ-ബലദ്",
+        "recitation_link": "https://www.youtube.com/embed/Z7inzDT3SsY?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 91,
+        "name": "Ash-Shams",
+        "name_in_malayalam": "അഷ്-ശമ്സ്",
+        "recitation_link": "https://www.youtube.com/embed/FdIvX7FhWXs?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 92,
+        "name": "Al-Lail",
+        "name_in_malayalam": "അൽ-ലൈൽ",
+        "recitation_link": "https://www.youtube.com/embed/Zpot75nn4Is?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 93,
+        "name": "Ad-Duha",
+        "name_in_malayalam": "അദ്ദുഹ",
+        "recitation_link": "https://www.youtube.com/embed/8fA-moj9DA4?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 94,
+        "name": "Ash-Sharh",
+        "name_in_malayalam": "അഷ്-ശാര്‍ഹ്",
+        "recitation_link": "https://www.youtube.com/embed/T_vlulnRLGo?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 95,
+        "name": "At-Tin",
+        "name_in_malayalam": "അത്തീൻ",
+        "recitation_link": "https://www.youtube.com/embed/ROKvqalZmAs?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 96,
+        "name": "Al-'Alaq",
+        "name_in_malayalam": "അൽ-അലാക്",
+        "recitation_link": "https://www.youtube.com/embed/MAnVqELslNU?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 97,
+        "name": "Al-Qadr",
+        "name_in_malayalam": "അൽ-ഖദർ",
+        "recitation_link": "https://www.youtube.com/embed/XA7nfUY6GQc?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 98,
+        "name": "Al-Bayyinah",
+        "name_in_malayalam": "അൽ-ബയ്യിന",
+        "recitation_link": "https://www.youtube.com/embed/BiPPZd1uw-s?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 99,
+        "name": "Az-Zalzalah",
+        "name_in_malayalam": "അസ്സല്‍സലാല",
+        "recitation_link": "https://www.youtube.com/embed/HVllhcAQsk0?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"      },
+      {
+        "index": 100,
+        "name": "Al-'Adiyat",
+        "name_in_malayalam": "അൽ-അദ്യാത്ത്",
+        "recitation_link": "https://www.youtube.com/embed/6FbviwwAGMw?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"
+      },
+      {
+        "index": 101,
+        "name": "Al-Qari'ah",
+        "name_in_malayalam": "അൽ-ഖാരിഅഹ്",
+        "recitation_link": "https://www.youtube.com/embed/RKLubs-htQM?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"
+      },
+      {
+        "index": 102,
+        "name": "At-Takathur",
+        "name_in_malayalam": "അത്തകത്തൂർ",
+        "recitation_link": "https://www.youtube.com/embed/UtYMTGaUs_U?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"
+      },
+      {
+        "index": 103,
+        "name": "Al-'Asr",
+        "name_in_malayalam": "അൽ-അസ്ര്",
+        "recitation_link": "https://www.youtube.com/embed/5YND2rL9W6I?list=PLLBKMWWGdNUUTsEawCNnEPkHAoZfsVn9N"
+      },
+      {
+        "index": 104,
+        "name": "Al-Humazah",
+        "name_in_malayalam": "അൽ-ഹുമസ",
+        "recitation_link": "https://www.youtube.com/embed/c4SzHGnqKYc"
+      },
+      {
+        "index": 105,
+        "name": "Al-Fil",
+        "name_in_malayalam": "അൽ-ഫീൽ",
+        "recitation_link": "https://www.youtube.com/embed/3djmnVnAVnk"
+      },
+      {
+        "index": 106,
+        "name": "Quraysh",
+        "name_in_malayalam": "ഖുരൈഷ്",
+        "recitation_link": "https://www.youtube.com/embed/4VQ_RMhyA4k"
+      },
+      {
+        "index": 107,
+        "name": "Al-Ma'un",
+        "name_in_malayalam": "അൽ-മാഉൺ",
+        "recitation_link": "https://www.youtube.com/embed/zJENdlJDg7A"
+      },
+      {
+        "index": 108,
+        "name": "Al-Kawthar",
+        "name_in_malayalam": "അൽ-കൗത്തർ",
+        "recitation_link": "https://www.youtube.com/embed/PHyN7gj-so4"
+      },
+      {
+        "index": 109,
+        "name": "Al-Kafirun",
+        "name_in_malayalam": "അൽ-കാഫിറൂൺ",
+        "recitation_link": "https://www.youtube.com/embed/49QizxwGe5M"
+      },
+      {
+        "index": 110,
+        "name": "An-Nasr",
+        "name_in_malayalam": "അൽ-നസ്",
+        "recitation_link": "https://www.youtube.com/embed/3TRp67mbCJM"
+      },
+      {
+        "index": 111,
+        "name": "Al-Masad",
+        "name_in_malayalam": "അൽ-മസദ്",
+        "recitation_link": "https://www.youtube.com/embed/Q5RrODhS11M"
+      },
+      {
+        "index": 112,
+        "name": "Al-Ikhlas",
+        "name_in_malayalam": "അൽ-ഇഖ്ലാസ്",
+        "recitation_link": "https://www.youtube.com/embed/5TS0zgmpAqM"
+      },
+      {
+        "index": 113,
+        "name": "Al-Falaq",
+        "name_in_malayalam": "അൽ-ഫലാക്",
+        "recitation_link": "https://www.youtube.com/embed/o2PJNFAjreA"
+      },
+      {
+        "index": 114,
+        "name": "An-Nas",
+        "name_in_malayalam": "അൽ-നാസ്",
+        "recitation_link": "https://www.youtube.com/embed/leKCp6XU4YM"
+      }
+    ]
+  }
+          

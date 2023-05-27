@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Surah List</title>
+  <style>body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  #surah-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #surah-list li {
+    background-color: #333;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 15px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  #surah-list li:hover {
+    background-color: #444;
+    cursor: pointer;
+  }
+  
+  #surah-list li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  #surah-list li h3 {
+    margin: 0;
+  }
+
+  .button-container {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .button-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .button-container button:not(:last-child) {
+    margin-right: 10px;
+  }
+  
+  .button-container button.small {
+    background-color: #33d;
+    color: #fff;
+    scale: 1;
+    margin-right: 30px;
+  }
+  
+  .button-container button.medium {
+    background-color: #ff6f00;
+    color: #fff;
+    scale: 1.5;
+    margin-right: 70px;
+  }
+  
+  .button-container button.large {
+    background-color: #f00;
+    color: #fff;
+    scale: 2;
+  }
+  
+  .button-container button:hover {
+    opacity: 0.8;
+  }
+  </style>
+</head>
+<body>
+  <h1>Surah List</h1>
+  <div class="button-container">
+    <button class="small" onclick="changeFontSize(16)">Small</button>
+    <button class="medium" onclick="changeFontSize(46)">Medium</button>
+    <button class="large" onclick="changeFontSize(76)">Large</button>
+  </div>
+  <ul id="surah-list"></ul>
+</body>
+<script>
+  
+  
+  const surahList = document.getElementById('surah-list');
+  let fontSize = 16;
+      // Function to change the scale
+      function changeFontSize(size) {
+        fontSize = size;
+        const surahItems = surahList.querySelectorAll('li');
+        surahItems.forEach(item => {
+          item.style.fontSize = `${fontSize}px`;
+        });
+      }
+      // Fetch the JSON data
+  fetch('iqra.json')
+    .then(response => response.json())
+    .then(data => {
+      
+      // Loop through the surahs and create HTML elements
+      data.surahs.forEach(surah => {
+        const li = document.createElement('li');
+        const link = document.createElement('a');
+        const name = document.createElement('h3');
+        const name_in_malayalam = document.createElement('h3');
+
+        
+  
+        name.textContent = surah.name+' - '+surah.name_in_malayalam;
+        const paramName = encodeURIComponent(surah.name + '_' +surah.name_in_malayalam) ;
+  
+        // Set the href attribute with the recitation link as a parameter
+        link.href = `recitation.html?link=${encodeURIComponent(surah.recitation_link)}&name=${encodeURIComponent(surah.name + '_' +surah.name_in_malayalam)}`;
+        link.appendChild(name);
+  
+        li.appendChild(link);
+        surahList.appendChild(li);
+      });
+    })
+    .catch(error => {
+      console.error('Error:', error);
+    });
+  
+    </script>
+</html>

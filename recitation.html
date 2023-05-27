@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Recitation Page</title>
+  <style>
+    body {
+      background-color: #222;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 24px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .video-container {
+      max-width: 800px;
+      margin: 0 auto;
+      height: max-content;
+    }
+
+    #video-title {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .back-button {
+      display: block;
+      margin-top: 20px;
+      background-color: #444;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      margin: auto;
+      font-size: larger;
+    }
+
+    .back-button:hover {
+      background-color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Recitation Page</h1>
+
+  <div class="video-container">
+    <iframe id="recitation-video" width="100%" src="" frameborder="0" allowfullscreen style="height: 25vh;" autoplay></iframe>
+    <h1 id="video-title"></h1>
+  </div>
+
+  <button class="back-button" onclick="goBack()">Go Back</button>
+  <script>
+    // Get the parameters from the URL
+    const params = new URLSearchParams(window.location.search);
+    const name = decodeURIComponent(params.get('name'));
+
+    // Set the name value in the HTML
+    const videoTitle = document.getElementById('video-title');
+    videoTitle.textContent = name;
+
+    // Get the recitation link from the parameters
+    const recitationLink = decodeURIComponent(params.get('link'));
+
+    // Set the src attribute of the iframe with the recitation link
+    const recitationVideo = document.getElementById('recitation-video');
+    recitationVideo.src = recitationLink;
+
+     // Go back function
+     function goBack() {
+      window.history.back();
+    }
+  </script>
+</body>
+</html>
